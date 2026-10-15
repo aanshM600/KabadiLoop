@@ -3,7 +3,7 @@
 Reuse first, repair next, recycle last, and hazardous items only to specialist handling. Photograph an object, confirm what it is, then sell it, give it away, scrap it, or send it to specialist handling. Every step is tracked in a digital twin.
 
 **Team:** Code Catalyst · **College:** DSU · **Hackathon:** Code Clash, 16/10/26
-**Live demo:** <GitHub Pages link>
+**Live demo:** https://aanshm600.github.io/KabadiLoop/
 
 ## What works
 - Scan a photo or use the camera, then confirm or correct the guess.
