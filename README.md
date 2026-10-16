@@ -20,6 +20,8 @@ Reuse first, repair next, recycle last, and hazardous items only to specialist h
 
 ## Run
 Open `index.html` in a browser, or use GitHub Pages. No build step.
+Under the Scan Section upload the files metadata.json, model.json, weights.bin.
+These files contain the trained model using pictures of different categories through Trainable Machine.
 
 ## Backend prototype (`backend/`, `tests/`)
 Original Python lifecycle, routing, matching, batching and impact logic (standard library only).
